@@ -1,0 +1,130 @@
+.navigation{
+    background-color: #6D6875;
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    color: #FFF5F3;
+    font-size: 28;
+}
+.heroImg{
+    height: 500px;
+    padding: 25px;
+    background-color: #6D6875;
+    color: #FFF5F3;
+    padding-top: 10%;
+}
+#pagecontent{
+    margin: 10%;
+    text-align: center;
+}
+h1{
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+h2{
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+button{
+    width: 150px;
+    height: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #ffe3e0;
+    color: #3b252c;
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 15px;
+}
+a{
+    color: #B5838E;
+    font-family: "nunito";
+    font-weight: bold;
+}
+#navbar{
+    background-color: #ffe3e0;
+    font-family: "nunito";
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+    margin: 20px;
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h5{
+    text-align: center;
+    font-family: "nunito";
+    font-weight: bold;
+}
+p{
+    font-family: "nunito"; 
+    text-align: center;
+}
+#problemstatement{
+    margin-top: 20px;
+    border-radius: 15px;
+    color: #3b252c;
+    background-color: #FFF5F3;
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+body{
+    background-color: #ffe3e0;
+    color: #3b252c;
+}
+.media{
+margin-bottom: 10%;
+}
+.media-body{
+   max-height: 500px;
+   justify-items: center;
+   align-items: center;
+   margin: 10%;
+}
+#fullproject{
+    border-radius: 20px;
+}
+#viewprototypebutton{
+
+    font-family: "nunito";
+    font-weight: bold;
+    font-size: large;
+    margin: 20px;
+    padding: 14px 40px;
+    width: fit-content;
+    transition-duration: 0.4s
+}
+#viewprototypebutton:hover {
+    background-color: #B5838E;
+    color:#ffe3e0;
+  }
+#viewprojectbutton{
+
+    font-family: "nunito";
+    font-weight: bold;
+    font-size: large;
+    margin: 20px;
+    padding: 14px 40px;
+    width: fit-content;
+    transition-duration: 0.4s
+}
+#viewprojectbutton:hover {
+    background-color: #B5838E;
+    color:#ffe3e0;
+  }
+.content{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    font-size: 32;
+}
+footer{
+    background-color: #6D6875;
+    color: #FFF5F3;
+    font-size: 28;
+    text-align: center;
+    font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
